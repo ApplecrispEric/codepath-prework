@@ -1,0 +1,79 @@
+/* Our default values set as CSS variables */
+:root {
+  --color-bg: #376594;
+  --color-text-main: #000000;
+  --color-primary: #FFFF00;
+  --wrapper-height: 87vh;
+  --image-max-width: 300px;
+  --image-margin: 3rem;
+  --font-family: "HK Grotesk";
+  --font-family-header: "HK Grotesk";
+}
+
+
+body {
+  font-family: Tahoma, verdana, arial, sans-serif;
+  margin: 2em;
+  background-color: #557da6;
+  color: white;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: Tahoma, verdana, arial, sans-serif;
+  font-size: 60px;
+}
+
+button {
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+/* Targets all four of the game buttons only */
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+  font-size: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+    background: #3acf3c;
+}
+#button1:active, #button1.lit{
+    background:#2e9e30;
+}
+
+#button2 {
+    background: #e82c4f;
+}
+#button2:active, #button2.lit{
+    background:#a82039;
+}
+
+#button3 {
+    background: #438ede;
+}
+#button3:active, #button3.lit{
+    background:#2f67a3;
+}
+
+#button4 {
+    background: #bb4fdb;
+}
+#button4:active, #button4.lit{
+    background:#7c3491;
+}
+
+#button5 {
+    background: #f2943d;
+}
+
+#button5:active, #button5.lit{
+    background:#cc7b2f;
+}
