@@ -8,7 +8,6 @@ Time spent: **4** hours spent in total
 
 Link to project: [https://catnip-dark-meteoroid.glitch.me/](https://catnip-dark-meteoroid.glitch.me/)
 
-It doesn't start with https://glitch.com... so I'm not totally sure if it is the correct link.
 
 ## Required Functionality
 
