@@ -46,8 +46,8 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](https://recordit.co/llLodbiXnR)
 ![](http://recordit.co/NBERSjz9Yr)
 
-<img src="https://recordit.co/llLodbiXnR"><br>
-<img src="http://recordit.co/NBERSjz9Yr"><br>
+<img src="https://recordit.co/llLodbiXnR.gif"><br>
+<img src="http://recordit.co/NBERSjz9Yr.gif"><br>
 
 ## Reflection Questions
 
