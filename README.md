@@ -4,7 +4,7 @@
 
 Submitted by: **Eric Brown**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: [https://catnip-dark-meteoroid.glitch.me/](https://catnip-dark-meteoroid.glitch.me/)
 
@@ -45,6 +45,9 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://recordit.co/llLodbiXnR)
 ![](http://recordit.co/NBERSjz9Yr)
+
+<img src="https://recordit.co/llLodbiXnR"><br>
+<img src="http://recordit.co/NBERSjz9Yr"><br>
 
 ## Reflection Questions
 
